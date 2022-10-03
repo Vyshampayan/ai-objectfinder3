@@ -1,0 +1,29 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+.headingsub{
+    font-size: 15px;
+    color: black;
+}
+.text-input{
+    width: 30%;
+}
+canvas{
+    border: 2px solid black;
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px black;
+    margin-top: 150px;
+}
